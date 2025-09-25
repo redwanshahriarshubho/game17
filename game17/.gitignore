@@ -1,0 +1,10 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+tictactoe
+tictactoe.exe
+# VS Code
+.vscode/
